@@ -1,6 +1,6 @@
 # 💿 iso-flasher (gui coming soon)
 
-**A powerful, no-bloat, no-fluff CLI tool to flash ISO files to USB drives.**
+**A powerful, no-bloat, no-fluff CLI (GUI coming soon) tool to flash ISO files to USB drives.**
 
 By AnshLabs716 🔥
 
@@ -16,7 +16,7 @@ No GUI. No bloat. Just **pure C power**.
 
 ## ✨ **Features**
 
-- 🖥️ **CLI-only** — No GUI, just terminal
+- 🖥️ **CLI-only** — No GUI YET, just terminal
 - 🔍 **Auto-detects** your package manager (apt, dnf, pacman, brew, etc.)
 - 📦 **Installs dependencies** automatically (dd, lsblk, pv)
 - 🚀 **Fast ISO writing** with progress
